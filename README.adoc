@@ -1,0 +1,3 @@
+= Quarkus Devservice for Hadoop
+
+This project holds a devservices for integration of Hadoop in Quarkus

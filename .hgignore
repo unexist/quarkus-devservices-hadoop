@@ -1,0 +1,13 @@
+syntax: glob
+
+**/*.iml
+*.iml
+
+target/
+.idea/
+.mvn/
+
+podman/debezium-server-iceberg
+metastore_db/
+derby.log
+.quarkus/

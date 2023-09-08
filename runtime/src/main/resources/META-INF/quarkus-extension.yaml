@@ -1,0 +1,9 @@
+name: Devservices Hadoop
+metadata:
+  keywords:
+    - devservices
+    - hadoop
+#  guide: ...
+  categories:
+    - "data"
+  status: "preview"
